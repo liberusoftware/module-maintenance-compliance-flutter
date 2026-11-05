@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-compliance-flutter",
+  "capabilityKey": "liberusoftware/module-maintenance-compliance",
+  "presentation": "mobile-flutter",
+  "package": "module_maintenance_compliance_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/maintenance/nextjs/compliance.md",
+  "presentationPlan": "projects/maintenance/flutter/compliance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
